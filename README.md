@@ -1,5 +1,7 @@
 # first
-
+name:wubw-vue-exercise
+author:wubw
+data:2021-06-01
 ## Project setup
 ```
 npm install
